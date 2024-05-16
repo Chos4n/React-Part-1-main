@@ -2,7 +2,7 @@ import componentImg from "./assets/img/components.png";
 import JsxImg from "./assets/img/jsx-ui.png";
 import PropImg from "./assets/img/config.png";
 import StateImg from "./assets/img/state-mgmt.png";
-
+import ReactCoreConcept from "./assets/img/react-core-concepts.png"
 
 
 
