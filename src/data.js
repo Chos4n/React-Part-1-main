@@ -2,6 +2,7 @@ import componentImg from "./assets/img/components.png";
 import JsxImg from "./assets/img/jsx-ui.png";
 import PropImg from "./assets/img/config.png";
 import StateImg from "./assets/img/state-mgmt.png";
+import ReactCoreConcept from "./assets/img/react-core-concepts.png"
 
 
 
@@ -27,3 +28,12 @@ export const data =[
     description: 'React-managed data which when changed, causes the components to re-render & the UI to update.'
   }
 ];
+
+
+export const header =[
+    {
+      image: ReactCoreConcept,
+      title: 'React Essentials',
+      description: "Fundamental React concepts you will need for almost any app you are going to build!"
+    }
+  ];
